@@ -1,0 +1,3 @@
+# Scan results
+output/**/*.json
+output/**/*.html
